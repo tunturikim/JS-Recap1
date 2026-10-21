@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+a {
+  display: block;
+  color: green;
+  text-decoration: none;
+  margin: 10px;
+}
+
+a:hover {
+  color: purple;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+  height: auto;
+  margin: 10px;
+  border: 4px solid rgb(255, 0, 0);
+  border-radius: 30px;
+}
+
+table {
+  border: 1px solid;
+  border-collapse: collapse;
+  margin: 10px;
+  width: 20rem;
+}
+
+th,
+td {
+  border: 1px solid;
+  text-align: center;
+  padding: 10px;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(231, 10, 10, 0.3);
+}
