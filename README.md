@@ -7,7 +7,6 @@ Server base address: https://users.metropolia.fi/~kimtun/Javascript-ohtu/week1/j
 ## Contents
 
 - [`index.html`](https://users.metropolia.fi/~kimtun/Javascript-ohtu/week1/htmlcss_task/), `style.css` – HTML recap page (headings, image, link, table)
-- [`example.html`], `main.js` – example page and script
 - `task1/` – [Temperature converter](https://users.metropolia.fi/~kimtun/Javascript-ohtu/week1/js-recap1/task1/task1.html) (Celsius → Fahrenheit and Kelvin)
 - `task2/` – [Distance between two points](https://users.metropolia.fi/~kimtun/Javascript-ohtu/week1/js-recap1/task2/task2.html)
 - `task3/` – [Triangle identifier](https://users.metropolia.fi/~kimtun/Javascript-ohtu/week1/js-recap1/task3/task3.html)
